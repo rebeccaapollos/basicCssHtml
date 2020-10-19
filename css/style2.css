@@ -1,0 +1,22 @@
+body {
+  background-color: #a7dbe3;
+  color: white;
+  font-size: 21px;
+}
+
+h1 {
+  font-size: 70px;
+  color: #3747b3;
+}
+
+p {
+  color: #e6005c;
+}
+div {
+  background: #c6ffb3;
+  width: 500px;
+}
+span {
+  color: #446600;
+  font-size: 40px;
+}
